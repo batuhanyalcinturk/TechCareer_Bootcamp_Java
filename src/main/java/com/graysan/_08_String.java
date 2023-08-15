@@ -1,6 +1,6 @@
 package com.graysan;
 
-public class _07_String {
+public class _08_String {
 
     public static void main(String[] args) {
         String kelime = "Java ÖGReniyorum Java ";

@@ -1,6 +1,6 @@
 package com.graysan;
 
-public class _08_Methods {
+public class _09_Methods {
 
     public static void voidliParametresiz(){
         System.out.println("voidli Parametresiz");

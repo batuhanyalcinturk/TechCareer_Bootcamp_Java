@@ -2,7 +2,7 @@ package com.graysan;
 
 import java.util.Arrays;
 
-public class _10_Diziler {
+public class _11_Diziler {
     public static void main(String[] args) {
         int[] arr = new int[6];
         arr[0] = 86;
