@@ -20,5 +20,7 @@ public class GenericsData<T> {
         GenericsData genericsData = new GenericsData();
         genericsData.setAdi(23);
         System.out.println(genericsData.getAdi());
+        genericsData.setAdi("Batu");
+        System.out.println(genericsData.getAdi());
     }
 }
