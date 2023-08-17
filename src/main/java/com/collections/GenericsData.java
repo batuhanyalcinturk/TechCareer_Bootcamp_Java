@@ -12,7 +12,7 @@ public class GenericsData<T> {
         this.adi = adi;
     }
 
-    public GenericsData(T adi) {
+    public GenericsData() {
         this.adi = adi;
     }
 
